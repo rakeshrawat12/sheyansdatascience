@@ -1,141 +1,162 @@
-<!-- Header -->
-<div align="center">
+<!--
+📅 Last Updated: March 18, 2026
+📍 Location: Ajmer, Rajasthan, India
+-->
 
-```diff
-+ Name        : Rakesh Rawat
-+ Role        : Aspiring Data Scientist
-+ Focus       : Machine Learning | Generative AI
-+ Strength    : Consistency + Problem Solving
-+ Location    : Ajmer, Rajasthan, IN
-+ Mission     : Build impactful AI systems 🚀
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Rakesh%20Rawat&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-</div>
+<h3 align="center">🚀 Aspiring Data Scientist | 🤖 ML Engineer | 🧠 Gen AI Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Building+AI+Step+by+Step;Exploring+Machine+Learning;Learning+Generative+AI;Consistency+%3D+Success🔥" />
+</p>
+
+---
+
+## 🧠 About Me
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focused-Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Goal-AI%20Engineer-green?style=for-the-badge"/>
+</p>
+
+* 🎓 B.Tech Student (3rd Year)
+* 📊 Practicing **EDA, Data Cleaning & Analysis**
+* 🧠 Strong in **DSA (C++) & Python**
+* 🤖 Learning **Machine Learning & Generative AI**
+* 🎯 Goal: Become a **skilled AI/ML Engineer**
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages & Core**
+### 🧩 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge"/>
+</p>
 
-**Machine Learning**
+### 📊 Data & Analysis
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Pandas-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge"/>
+</p>
 
-**Generative AI**
+### 🤖 Machine Learning
 
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/ML-Learning-green?style=for-the-badge"/>
+</p>
 
-**Data & Visualization**
+### 🧠 Generative AI
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/GenAI-Explorer-purple?style=for-the-badge"/>
+</p>
 
-**Tools**
+### 🛠️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshrawat12&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RakeshRawat&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshRawat&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RakeshRawat&theme=github-dark-blue&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshrawat12&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Projects
 
 ### 🧠 Fake News Detection (Multimodal)
-> BERT + ResNet model combining text & image intelligence for real-time misinformation detection.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![ResNet](https://img.shields.io/badge/ResNet-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/BERT-NLP-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/ResNet-CNN-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Ongoing-yellow?style=flat-square"/>
+</p>
 
-- Fused **NLP + Computer Vision** in a single pipeline
-- Used **BERT** for text embeddings, **ResNet** for image features
-- Combined multimodal signals for final classification
+* Text + Image classification
+* Multimodal learning approach
 
 ---
 
 ### 📊 Airbnb Data Analysis
-> Extracted insights from raw data using EDA techniques.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/EDA-Analysis-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data-Cleaning-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/Visualization-Matplotlib-orange?style=flat-square"/>
+</p>
 
-- Analyzed **pricing trends**, host behavior, and neighborhood patterns
-- Built visual dashboards using **Matplotlib & Seaborn**
-- Applied data cleaning, feature engineering & storytelling
+* Data cleaning & preprocessing
+* Insights on pricing & trends
 
 ---
 
-## 🧠 AI Journey
+## 🧭 AI Journey
 
-```
-2023  ──●  Python & Data Fundamentals
-          Mastered core Python, NumPy, Pandas, statistics
-
-2024  ──●  Machine Learning & Deep Learning
-          Scikit-learn, PyTorch · Fake News Detector · Airbnb EDA
-
-2026  ──◉  Generative AI & LLMs          ← YOU ARE HERE
-          HuggingFace · LangChain · RAG Pipelines
-
-Next  ──○  Impactful AI Systems
-          Ship production-grade AI products at scale
+```text
+2023 ─ Started Programming (C++)
+2024 ─ Learned Data Structures & Algorithms
+2025 ─ Entered Data Science (EDA, Pandas)
+2026 ─ Learning ML + GenAI  ← YOU ARE HERE 🔥
 ```
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔥 **Mastering Machine Learning** — algorithms, math, production patterns
-- 🤖 **Exploring Generative AI** — LLMs, RAG, prompt engineering
-- ⚙️ **Building real-world projects** with measurable impact
+<p>
+<img src="https://img.shields.io/badge/ML-Learning-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GenAI-Exploring-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Projects-Building-green?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🌍 Connect
+## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+<p align="center">
+<a href="https://github.com/rakeshrawat12">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
 ## 💭 Quote
 
-> **"Code + Data = Intelligence &nbsp;|&nbsp; Consistency = Success"**
->
-> — Rakesh Rawat, 2026
+> 🔥 **“Consistency beats motivation — I build my future step by step.”**
+> — *Rakesh Rawat, 2026*
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RakeshRawat&style=flat-square&color=58a6ff" alt="Profile Views" />
-  <br><br>
-  <i>⚡ Open to opportunities · Ajmer, Rajasthan, IN · Mar 2026</i>
-</div>
+## 🚀 Status
+
+<p align="center">
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer"/>
+</p>
+
 
