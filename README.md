@@ -16,7 +16,7 @@
 
 ## 🛠️ Skills
 
-* **Programming:** Python, C++
+* **Programming:** Python, C++,javascript,java,R,sql
 * **Libraries:** Pandas, NumPy, Matplotlib
 * **Concepts:** Data Cleaning, EDA, Machine Learning Basics
 * **Tools:** VS Code, Git, GitHub
