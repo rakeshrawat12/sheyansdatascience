@@ -11,6 +11,7 @@ int main()
     int ans=-1;
 
     while (i <= j)
+    
     {
         mid = i + (j - 1) / 2;
 
