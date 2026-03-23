@@ -1,8 +1,26 @@
+<!-- HEADER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rakesh%20Rawat&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h3 align="center">🚀 AI/ML Engineer in Progress | 🤖 Gen AI Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Learning+Data+Science;Building+ML+Projects;Exploring+Generative+AI;Consistency+%3D+Success🔥"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakxhrwt10&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
 # 🚀 AI/ML + Data Science Tracker – Rakesh Rawat
 
-> 🎯 Goal: Become AI/ML Engineer (Industry Ready)
+> 🎯 Goal: Become AI/ML Engineer
 > 📅 Started: March 2026
-> 🔥 Focus: Consistency + Real Projects + Gen AI
+> 🔥 Focus: Consistency + Projects + Gen AI
 
 ---
 
@@ -23,9 +41,9 @@
 
 ---
 
-## 🧠 Learning Roadmap Tracker
+## 🧠 Learning Roadmap
 
-### 🧩 1. Python + Data Handling
+### 🧩 Python
 
 * [x] Loops, Functions
 * [x] List, Dictionary
@@ -34,18 +52,18 @@
 
 ---
 
-### 📊 2. Data Analysis (Pandas + EDA)
+### 📊 Data Analysis (Pandas)
 
 * [x] Data Loading
 * [ ] Data Cleaning
-* [ ] Missing Values Handling
-* [ ] GroupBy & Aggregation
-* [ ] Visualization (Matplotlib/Seaborn)
-* [ ] Insights Writing
+* [ ] Missing Values
+* [ ] GroupBy
+* [ ] Visualization
+* [ ] Insights
 
 ---
 
-### 🧮 3. SQL (Data Extraction)
+### 🧮 SQL
 
 * [ ] SELECT, WHERE
 * [ ] GROUP BY
@@ -54,7 +72,7 @@
 
 ---
 
-### 📈 4. Statistics
+### 📈 Statistics
 
 * [ ] Mean, Median, Mode
 * [ ] Probability
@@ -63,147 +81,98 @@
 
 ---
 
-### 🤖 5. Machine Learning
+### 🤖 Machine Learning
 
-* [ ] Linear Regression
-* [ ] Logistic Regression
-* [ ] Decision Trees
-* [ ] Random Forest
+* [ ] Regression
+* [ ] Classification
+* [ ] Trees & Ensemble
 * [ ] Model Evaluation
 
 ---
 
-### 🧠 6. Deep Learning
-
-* [ ] Neural Networks Basics
-* [ ] CNN
-* [ ] RNN / LSTM
-
----
-
-### 🔥 7. Generative AI
+### 🧠 Generative AI
 
 * [ ] LLM Basics
 * [ ] Prompt Engineering
-* [ ] RAG (Retrieval Augmented Generation)
-* [ ] LangChain Basics
+* [ ] RAG
+* [ ] LangChain
 
 ---
 
-### ⚡ 8. Agentic AI
+### ⚡ MLOps
 
-* [ ] AI Agents Basics
-* [ ] Tool Calling
-* [ ] Multi-Agent Systems
-
----
-
-### 🚀 9. MLOps
-
-* [ ] Model Deployment
-* [ ] Docker Basics
-* [ ] CI/CD for ML
-* [ ] Monitoring
+* [ ] Deployment
+* [ ] Docker
+* [ ] CI/CD
 
 ---
 
-## 📅 Weekly Tracker
+## 🚀 Projects
 
-### Week 1–2
+### 🧠 Fake News Detection
 
-* [x] Python Basics
-* [ ] Pandas Intro
-* [ ] SQL Basics
-
-### Week 3–4
-
-* [ ] Data Cleaning
-* [ ] EDA Practice
-* [ ] SQL Practice
-
-### Week 5–6
-
-* [ ] Statistics
-* [ ] ML Start
-
----
-
-## 🚀 Projects Tracker
-
-### 🧠 Fake News Detection (Multimodal)
-
-* [x] Idea Finalized
-* [ ] Dataset Collection
-* [ ] Data Cleaning
-* [ ] Model Building
-* [ ] Evaluation
+* [x] Idea
+* [ ] Dataset
+* [ ] Cleaning
+* [ ] Model
 * [ ] Deployment
 
 ---
 
-### 📊 Airbnb Data Analysis
+### 📊 Airbnb Analysis
 
-* [x] Dataset Loaded
-* [x] Cleaning Started
+* [x] Dataset
+* [ ] Cleaning
 * [ ] EDA
 * [ ] Visualization
 * [ ] Insights
 
 ---
 
-### 🤖 Gen AI Project (RAG / Chatbot)
+### 🤖 Gen AI Project
 
-* [ ] Dataset / Docs
-* [ ] Embeddings
+* [ ] RAG
 * [ ] Vector DB
 * [ ] LLM Integration
-* [ ] UI / App
 
 ---
 
-## 🧩 Skills Tracker
+## 📈 GitHub Stats
 
-### Core Skills
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakxhrwt10&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-* [x] Python Basics
-* [ ] Pandas
-* [ ] SQL
-* [ ] Statistics
-
-### AI Skills
-
-* [ ] Machine Learning
-* [ ] Deep Learning
-* [ ] Generative AI
-* [ ] Agentic AI
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakxhrwt10&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🎯 Monthly Goals
+## 📈 Contribution Graph
 
-### March 2026
-
-* [x] Python Basics Strong
-* [ ] Pandas + EDA
-* [ ] SQL Basics
-* [ ] 1 Project Progress
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakxhrwt10&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## 💡 Notes
+## 🐍 Contribution Snake
 
-* 🔥 1 hour Python + 1 hour Data Daily
-* 📊 Focus on real datasets
-* 🤖 Build projects alongside learning
-* ⚡ Consistency > Motivation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rakxhrwt10/rakxhrwt10/output/snake.svg"/>
+</p>
 
 ---
 
 ## ⚡ Status
 
-🟢 Actively Learning AI/ML + Data Science
-🚀 Preparing for Internship / Placement
+🟢 Actively Learning
+🚀 Open to Internship Opportunities
 
 ---
 
-> 💭 “I am not just learning AI — I am building systems step by step.”
+<p align="center">
+🔥 <b>“Consistency + Projects = Success in Tech”</b>
+</p>
+
