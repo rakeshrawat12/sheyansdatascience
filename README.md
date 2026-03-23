@@ -1,173 +1,209 @@
-<!--
-📅 Last Updated: March 18, 2026
-📍 Location: Ajmer, Rajasthan, India
--->
+# 🚀 AI/ML + Data Science Tracker – Rakesh Rawat
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Rakesh%20Rawat&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<h3 align="center">🚀 Aspiring Data Scientist | 🤖 ML Engineer | 🧠 Gen AI Learner</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Building+AI+Step+by+Step;Exploring+Machine+Learning;Learning+Generative+AI;Consistency+%3D+Success🔥" />
-</p>
+> 🎯 Goal: Become AI/ML Engineer (Industry Ready)
+> 📅 Started: March 2026
+> 🔥 Focus: Consistency + Real Projects + Gen AI
 
 ---
 
-## 🧠 About Me
+## 📊 Progress Dashboard
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focused-Learning-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Goal-AI%20Engineer-green?style=for-the-badge"/>
-</p>
-
-* 🎓 B.Tech Student (3rd Year)
-* 📊 Practicing **EDA, Data Cleaning & Analysis**
-* 🧠 Strong in **DSA (C++) & Python**
-* 🤖 Learning **Machine Learning & Generative AI**
-* 🎯 Goal: Become a **skilled AI/ML Engineer**
-
----
-
-## ⚙️ Tech Stack
-
-### 🧩 Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge"/>
-</p>
-
-### 📊 Data & Analysis
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge"/>
-</p>
-
-### 🤖 Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/ML-Learning-green?style=for-the-badge"/>
-</p>
-
-### 🧠 Generative AI
-
-<p>
-<img src="https://img.shields.io/badge/GenAI-Explorer-purple?style=for-the-badge"/>
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge"/>
-</p>
+| Domain           | Status         | Progress |
+| ---------------- | -------------- | -------- |
+| Python           | 🟢 Ongoing     | 60%      |
+| Pandas / EDA     | 🟡 Learning    | 30%      |
+| SQL              | 🟡 Learning    | 20%      |
+| Statistics       | 🔴 Not Started | 0%       |
+| Machine Learning | 🔴 Not Started | 0%       |
+| Deep Learning    | 🔴 Not Started | 0%       |
+| MLOps            | 🔴 Not Started | 0%       |
+| Generative AI    | 🟡 Learning    | 20%      |
+| Agentic AI       | 🔴 Not Started | 0%       |
+| Projects         | 🟡 Ongoing     | 25%      |
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 Learning Roadmap Tracker
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshrawat12&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+### 🧩 1. Python + Data Handling
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshrawat12&theme=tokyonight&hide_border=true"/>
-</p>
+* [x] Loops, Functions
+* [x] List, Dictionary
+* [ ] Advanced Python
+* [ ] File Handling
 
 ---
 
-## 🚀 Projects
+### 📊 2. Data Analysis (Pandas + EDA)
+
+* [x] Data Loading
+* [ ] Data Cleaning
+* [ ] Missing Values Handling
+* [ ] GroupBy & Aggregation
+* [ ] Visualization (Matplotlib/Seaborn)
+* [ ] Insights Writing
+
+---
+
+### 🧮 3. SQL (Data Extraction)
+
+* [ ] SELECT, WHERE
+* [ ] GROUP BY
+* [ ] JOIN
+* [ ] Subqueries
+
+---
+
+### 📈 4. Statistics
+
+* [ ] Mean, Median, Mode
+* [ ] Probability
+* [ ] Distribution
+* [ ] Hypothesis Testing
+
+---
+
+### 🤖 5. Machine Learning
+
+* [ ] Linear Regression
+* [ ] Logistic Regression
+* [ ] Decision Trees
+* [ ] Random Forest
+* [ ] Model Evaluation
+
+---
+
+### 🧠 6. Deep Learning
+
+* [ ] Neural Networks Basics
+* [ ] CNN
+* [ ] RNN / LSTM
+
+---
+
+### 🔥 7. Generative AI
+
+* [ ] LLM Basics
+* [ ] Prompt Engineering
+* [ ] RAG (Retrieval Augmented Generation)
+* [ ] LangChain Basics
+
+---
+
+### ⚡ 8. Agentic AI
+
+* [ ] AI Agents Basics
+* [ ] Tool Calling
+* [ ] Multi-Agent Systems
+
+---
+
+### 🚀 9. MLOps
+
+* [ ] Model Deployment
+* [ ] Docker Basics
+* [ ] CI/CD for ML
+* [ ] Monitoring
+
+---
+
+## 📅 Weekly Tracker
+
+### Week 1–2
+
+* [x] Python Basics
+* [ ] Pandas Intro
+* [ ] SQL Basics
+
+### Week 3–4
+
+* [ ] Data Cleaning
+* [ ] EDA Practice
+* [ ] SQL Practice
+
+### Week 5–6
+
+* [ ] Statistics
+* [ ] ML Start
+
+---
+
+## 🚀 Projects Tracker
 
 ### 🧠 Fake News Detection (Multimodal)
 
-<p>
-<img src="https://img.shields.io/badge/BERT-NLP-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/ResNet-CNN-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Ongoing-yellow?style=flat-square"/>
-</p>
-
-* Text + Image classification
-* Multimodal learning approach
+* [x] Idea Finalized
+* [ ] Dataset Collection
+* [ ] Data Cleaning
+* [ ] Model Building
+* [ ] Evaluation
+* [ ] Deployment
 
 ---
 
 ### 📊 Airbnb Data Analysis
 
-<p>
-<img src="https://img.shields.io/badge/EDA-Analysis-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data-Cleaning-yellow?style=flat-square"/>
-<img src="https://img.shields.io/badge/Visualization-Matplotlib-orange?style=flat-square"/>
-</p>
-
-* Data cleaning & preprocessing
-* Insights on pricing & trends
+* [x] Dataset Loaded
+* [x] Cleaning Started
+* [ ] EDA
+* [ ] Visualization
+* [ ] Insights
 
 ---
 
-## 🚀 Developer Mindset
+### 🤖 Gen AI Project (RAG / Chatbot)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Thinking-Growth%20Mindset-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Consistency-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Goal-AI%20Engineer-purple?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  💡 <b>"I don't just learn technology — I build the mindset to master it."</b>
-</p>
+* [ ] Dataset / Docs
+* [ ] Embeddings
+* [ ] Vector DB
+* [ ] LLM Integration
+* [ ] UI / App
 
 ---
 
-## ⚡ What Drives Me
+## 🧩 Skills Tracker
 
-* 🔥 Solving real-world problems using data
-* 📊 Turning raw data into meaningful insights
-* 🤖 Exploring AI & building intelligent systems
-* 🚀 Improving every single day
+### Core Skills
 
----
+* [x] Python Basics
+* [ ] Pandas
+* [ ] SQL
+* [ ] Statistics
 
-## 🎯 Current Focus
+### AI Skills
 
-<p>
-<img src="https://img.shields.io/badge/ML-Learning-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GenAI-Exploring-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Projects-Building-green?style=for-the-badge"/>
-</p>
-
----
-
-## 🌐 Connect
-
-<p align="center">
-<a href="https://github.com/rakeshrawat12">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-</p>
+* [ ] Machine Learning
+* [ ] Deep Learning
+* [ ] Generative AI
+* [ ] Agentic AI
 
 ---
 
-## 💭 Quote
+## 🎯 Monthly Goals
 
-> 🔥 **“Consistency beats motivation — I build my future step by step.”**
-> — *Rakesh Rawat, 2026*
+### March 2026
 
----
-
-## 🚀 Status
-
-<p align="center">
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge"/>
-</p>
+* [x] Python Basics Strong
+* [ ] Pandas + EDA
+* [ ] SQL Basics
+* [ ] 1 Project Progress
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer"/>
-</p>
+## 💡 Notes
 
+* 🔥 1 hour Python + 1 hour Data Daily
+* 📊 Focus on real datasets
+* 🤖 Build projects alongside learning
+* ⚡ Consistency > Motivation
+
+---
+
+## ⚡ Status
+
+🟢 Actively Learning AI/ML + Data Science
+🚀 Preparing for Internship / Placement
+
+---
+
+> 💭 “I am not just learning AI — I am building systems step by step.”
