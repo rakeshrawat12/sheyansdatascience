@@ -16,7 +16,10 @@ for l in li:
         print("i will excute no matter what")
 
 
-        
+# age = 15
+
+# if age < 18:
+#     raise Exception("You are not eligible")
 
 
     
