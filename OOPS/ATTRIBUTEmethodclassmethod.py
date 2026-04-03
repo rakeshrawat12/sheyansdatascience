@@ -1,6 +1,9 @@
 class AiModel:
     api="kkfghjklm567"
+    
+    def __init__(self):
 
+        pass
 
     def Create_ai_image(self,image_name,pixel,color):
 
