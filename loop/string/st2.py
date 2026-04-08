@@ -1,4 +1,4 @@
-This solution does not use the string functions like tolower() or islower(). Only ASCII values.
+# This solution does not use the string functions like tolower() or islower(). Only ASCII values.
 class Solution:
     def toLower (self , s : str)-> str :
         #code here
