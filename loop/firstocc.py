@@ -19,7 +19,7 @@ def FirstOccurrence(lst: list, key: int):
     else:
         return "Element not found"
 
-print(FirstOccurrence([1,2,2,2,3,4,5], 2))
+print(FirstOccurrence([1,2,2,2,3,4,5], 5))
 
 
 
