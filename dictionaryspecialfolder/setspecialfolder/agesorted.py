@@ -6,6 +6,8 @@ l=[]
 
 
 newdict=dict(zip(name,height))
+print(newdict)
+print(50*"--")
 print(sorted(newdict.items(),key=lambda x: x[1],reverse=True))
 
 
